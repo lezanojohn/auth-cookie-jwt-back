@@ -1,0 +1,14 @@
+[
+  {
+      "id": 1,
+      "email": "usuario1@example.com",
+      "password": "$2b$10$nZ5jIXJZ/hAT/s3Lt2WPm.3ZEF6ga0IRu4v3q00P7h64EmR4Ogwt6",
+      "nombre": "Usuario Uno"
+  },
+  {
+      "id": 2,
+      "email": "usuario2@example.com",
+      "password": "$2b$10$BwkZwTnzMRZ21rI5UY65huGBoQV96fSafJuvmmCtiooFU6gkQzj7O",
+      "nombre": "Usuario Dos"
+  }
+]

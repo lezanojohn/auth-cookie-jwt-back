@@ -1,0 +1,39 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorio de salida del compilador
+dist
+
+# Directorios y archivos de configuración del IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Archivos de caché
+.cache
+.tmp
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios y archivos de compilación
+/build/
+/coverage/
+
+# Archivos de reportes de cobertura
+coverage.json
